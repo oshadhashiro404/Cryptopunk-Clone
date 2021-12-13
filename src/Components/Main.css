@@ -43,6 +43,7 @@
 .itemNumber {
 	color: #a1a5be;
 	font-size: 72px;
+	font-weight: 750;
 }
 
 .owner {
@@ -98,7 +99,7 @@
 	margin: 0 0 0 10px;
 }
 
-.ownerLink > img {
+.ownerLink > a > img {
 	height: 100%;
 	width: 100%;
 }
