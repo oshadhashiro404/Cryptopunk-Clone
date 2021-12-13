@@ -37,13 +37,19 @@ const Main = ({ punkListData, selectedPunk }) => {
 							</div>
 
 							<div className="ownerLink">
-								<img src={instagramLogo} alt="" />
+								<a href="https://www.instagram.com/techforgeeks49/">
+									<img src={instagramLogo} alt="" />
+								</a>
 							</div>
 							<div className="ownerLink">
-								<img src={twitterLogo} alt="" />
+								<a href="https://twitter.com/OshadhaShiro">
+									<img src={twitterLogo} alt="" />
+								</a>
 							</div>
 							<div className="ownerLink">
-								<img src={moreIcons} alt="" />
+								<a href="https://oshadhashiro.netlify.app/">
+									<img src={moreIcons} alt="" />
+								</a>
 							</div>
 						</div>
 					</div>
