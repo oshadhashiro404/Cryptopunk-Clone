@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import Header from './Components/Header.jsx';
-import CollectionCard from './Components/CollectionCard';
 import './App.css';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
